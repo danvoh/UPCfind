@@ -33,11 +33,3 @@ Cluepon is a Python application designed to help users find the best prices and 
 2. Ensure you have all the dependencies installed.
 3. Run the `main.py` file using Python.
 4. Use the tabs to perform searches, apply filters, manage bookmarks, and view search history.
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
